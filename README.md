@@ -22,10 +22,8 @@ Reporter’s configuration to the cypress.json file. Much like before, I avoided
 # Script configuration in package.json
 
  "clean-reports":"rm -rf cypress/reports",
-    "test": "npx cypress run",
-    "merge-report": "npx mochawesome-merge --reportDir cypress/reports/separate-reports 
- cypress/reports/full_report.json",
-    "generate-report": "npx mochawesome-report-generator --reportDir cypress/reports 
-cypress/reports/full_report.json",
-    "after:tests": "npm run merge-report; npm run generate-report",
-    "cypress": "npm run clean-reports; npm run test; npm run after:tests"
+ "test": "npx cypress run",
+ "merge-report": "npx mochawesome-merge --reportDir cypress/reports/separate-reports cypress/reports/full_report.json",
+ "generate-report": "npx mochawesome-report-generator --reportDir cypress/reports cypress/reports/full_report.json",
+ "after:tests": "npm run merge-report; npm run generate-report",
+ "cypress": "npm run clean-reports; npm run test; npm run after:tests"
