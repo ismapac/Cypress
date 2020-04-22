@@ -1,0 +1,10 @@
+{
+  "viewportWidth": 1535,
+  "viewportHeight": 877,
+  "watchForFileChanges": true,
+  "baseUrl": "https://www.atlassian.com",
+  "env":
+  {
+    "uiValidationThreshold": "0.03"
+  }
+}

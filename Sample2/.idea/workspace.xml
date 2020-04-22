@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0047c605-a66f-4f29-95ed-68eef6719d7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xxx30Sg9QG9KJuG1fWmWGkXWps" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SLASSCOM Session\Sample2" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0047c605-a66f-4f29-95ed-68eef6719d7d" name="Default Changelist" comment="" />
+      <created>1582001343360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582001343360</updated>
+      <workItem from="1582001345469" duration="1486000" />
+      <workItem from="1582002996498" duration="3404000" />
+      <workItem from="1582010927116" duration="1311000" />
+      <workItem from="1582025173592" duration="511000" />
+      <workItem from="1582027277147" duration="75000" />
+      <workItem from="1582095372376" duration="516000" />
+      <workItem from="1582103257102" duration="78000" />
+      <workItem from="1582111968493" duration="378000" />
+      <workItem from="1582176389984" duration="96000" />
+      <workItem from="1582177388370" duration="125000" />
+      <workItem from="1582177547930" duration="214000" />
+      <workItem from="1587468775221" duration="1218000" />
+      <workItem from="1587527623522" duration="520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582001402706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582001402706" />
+  </component>
+</project>
